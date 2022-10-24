@@ -1,1 +1,1 @@
-# KatanaPRO.github.io
+# katanapro.github.io
